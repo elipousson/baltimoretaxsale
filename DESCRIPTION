@@ -1,0 +1,16 @@
+Package: baltimoretaxsale
+Title: An Analysis of Tax Sales in Baltimore city, MD
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Eli",
+           family = "Pousson",
+           role = c("aut", "cre"),
+           email = "eli.pousson@gmail.com",
+           comment = c(ORCID = "0000-0001-8280-1706"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9001
