@@ -18,3 +18,5 @@ Suggests:
     styler
 URL: https://github.com/elipousson/baltimoretaxsale
 BugReports: https://github.com/elipousson/baltimoretaxsale/issues
+Imports: 
+    renv
