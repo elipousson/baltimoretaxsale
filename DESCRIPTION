@@ -1,5 +1,5 @@
 Package: baltimoretaxsale
-Title: An Analysis of Tax Sales in Baltimore city, MD
+Title: An Analysis of Tax Sales in Baltimore City, MD
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Eli",
@@ -20,3 +20,5 @@ URL: https://github.com/elipousson/baltimoretaxsale
 BugReports: https://github.com/elipousson/baltimoretaxsale/issues
 Imports: 
     renv
+Depends: 
+    R (>= 2.10)
